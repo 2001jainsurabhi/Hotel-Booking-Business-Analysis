@@ -186,6 +186,10 @@ TravClan-Hotel-Booking-Analysis
 ```
 ---
 
+## Conclusion
+
+The analysis revealed strong revenue performance, with Web bookings and 4-star properties emerging as key business drivers. However, cancellation rates remain a significant challenge, particularly for Travel Agent bookings and Standard rooms. Implementing targeted cancellation reduction strategies, strengthening direct booking channels, and optimizing pricing can significantly improve profitability and customer retention.
+
 ## Author
 
 **Surbhi Jain**
@@ -209,8 +213,3 @@ LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN_PROFILE
 ---
 
 Thank you for reviewing this project.
----
-
-## Conclusion
-
-The analysis revealed strong revenue performance, with Web bookings and 4-star properties emerging as key business drivers. However, cancellation rates remain a significant challenge, particularly for Travel Agent bookings and Standard rooms. Implementing targeted cancellation reduction strategies, strengthening direct booking channels, and optimizing pricing can significantly improve profitability and customer retention.
