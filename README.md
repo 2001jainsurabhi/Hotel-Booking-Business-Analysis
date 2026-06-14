@@ -184,7 +184,31 @@ TravClan-Hotel-Booking-Analysis
 └── Dataset
     └── Hotel_bookings_final.csv
 ```
+---
 
+## Author
+
+**Surbhi Jain**
+
+Business Analyst | Data Analyst
+
+### Skills
+- Python
+- SQL
+- Power BI
+- Excel
+- Data Analysis
+- Business Intelligence
+
+### Connect With Me
+
+GitHub: https://github.com/YOUR_USERNAME
+
+LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN_PROFILE
+
+---
+
+Thank you for reviewing this project.
 ---
 
 ## Conclusion
