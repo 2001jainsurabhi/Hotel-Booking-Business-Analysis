@@ -206,9 +206,9 @@ Business Analyst | Data Analyst
 
 ### Connect With Me
 
-GitHub: https://github.com/YOUR_USERNAME
-
-LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN_PROFILE
+GitHub: [https://github.com/YOUR_USERNAME
+](https://github.com/2001jainsurabhi)
+LinkedIn: [https://linkedin.com/in/YOUR_LINKEDIN_PROFILE](https://www.linkedin.com/in/jainsurbhi123/)
 
 ---
 
