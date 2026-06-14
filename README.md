@@ -140,8 +140,6 @@ Total Records: **30,000**
 
 ### Page 1 – Executive Overview
 
-Add your first dashboard screenshot here:
-
 ![Executive Summary](Executive Summary Page.png)
 
 This page provides:
