@@ -142,9 +142,7 @@ Total Records: **30,000**
 
 Add your first dashboard screenshot here:
 
-```markdown
-![Executive Overview](images/Executive_Summary_Page.png)
-```
+![Executive Summary](Executive Summary Page.png)
 
 This page provides:
 
