@@ -140,7 +140,7 @@ Total Records: **30,000**
 
 ### Page 1 – Executive Overview
 
-![Executive Summary](Executive Summary Page.png)
+![Executive Overview](Executive_Summary_Page.png)
 
 This page provides:
 
@@ -155,12 +155,7 @@ This page provides:
 
 ### Page 2 – Root Cause Analysis & Business Insights
 
-Add your second dashboard screenshot here:
-
-```markdown
-![Root Cause Analysis](images/Root_Cause_Business_Insights.png)
-```
-
+![Root Cause Analysis](Root_Cause_Business_Insights.png)
 This page provides:
 
 * Monthly Revenue Trend
