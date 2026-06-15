@@ -1,4 +1,4 @@
-# TravClan Hotel Booking Analysis
+# Hotel Booking Analysis
 
 ## Business Analyst Internship Assignment
 
